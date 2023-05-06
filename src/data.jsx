@@ -38,9 +38,9 @@ export const placeInfo = [
   {
     id: 4,
     headerTitle: "Camel",
-    headerSubTitle: "Rajashtan Dessert Camel",
+    headerSubTitle: "Rajasthan Desert Camel",
     headerText:
-      "The Indian camel, also known as the dromedary or one-humped camel, is a large, hardy animal that is well-adapted to the arid climate of India. They are used for transportation, milk, and meat, and are an important part of the economy and culture in desert regions. Indian camels are known for their ability to survive for long periods without water, and can carry heavy loads for extended distances. Despite their importance, many Indian camels are mistreated and neglected, and there are efforts underway to improve their welfare and promote their conservation. Ship of Dessert",
+      "The Indian camel, also known as the dromedary or one-humped camel, is a large, hardy animal that is well-adapted to the arid climate of India. They are used for transportation, milk, and meat, and are an important part of the economy and culture in desert regions. Indian camels are known for their ability to survive for long periods without water, and can carry heavy loads for extended distances. Despite their importance, many Indian camels are mistreated and neglected, and there are efforts underway to improve their welfare and promote their conservation. Ship of Desert",
     title: "Crowd Farming By HIGH LIFE",
     description:
       "Crowd farming of camels is a type of crowd farming that involves investors pooling their money to raise camels for their milk, meat, or breeding potential. This model allows individuals to invest in sustainable agriculture and support small-scale farmers without having to bear the full costs and risks associated with raising camels. Investors can share in the profits generated from the sale of milk, meat, or offspring, and may also have the opportunity to visit and learn about the farm and its practices. However, it's important to note that raising camels can require specialized knowledge and care, and investors should carefully consider the potential risks and rewards before investing in a camel or a herd of camels.",
@@ -62,7 +62,7 @@ export const placeInfo = [
   {
     id: 6,
     headerTitle: "Goat",
-    headerSubTitle: "Hydrabadi Goat",
+    headerSubTitle: "Hyderabadi Goat",
     headerText:
       "The Indian goat, also known as the desi goat, is a breed of goat that is native to the Indian subcontinent. They are hardy and adaptable, able to survive in a range of environments from deserts to mountains. Indian goats are raised for their meat, milk, and wool, and are an important source of nutrition and income for rural communities. They are typically smaller in size than commercial breeds, but are known for their flavorful meat and high-quality milk. There are efforts to promote the conservation and improvement of the breed, In the areas where they are under threat.",
     title: "Crowd Farming By HIGH LIFE",
